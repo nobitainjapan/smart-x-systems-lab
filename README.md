@@ -1,4 +1,4 @@
-# smart-x-systems-lab
+# Smart X Systems Lab
 # My Lab Homepage
 
 Welcome to the homepage of my lab! Here, we conduct research on exciting topics in [field/subject]. 
